@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "OATC: Open AI Threat Catalog"
+abstract: >-
+  OATC merges the OWASP Top 10 for LLM Applications, the OWASP Top 10 for
+  Agentic Applications and MITRE ATLAS into one machine-readable JSON catalog
+  with stable identifiers, cross-maps between them, and mappings to NIST SP
+  800-53 controls.
+authors:
+  - family-names: Sadayamuthu
+    given-names: Karthikeyan
+    orcid: "https://orcid.org/0009-0008-3539-6048"
+license: Apache-2.0
+repository-code: "https://github.com/sadayamuthu/oatc"
+url: "https://openastra.org"
+keywords:
+  - AI security
+  - threat catalog
+  - OWASP
+  - MITRE ATLAS
+  - NIST SP 800-53
